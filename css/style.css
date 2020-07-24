@@ -1,6 +1,6 @@
 body
 {
-    color: #fff;
+    color: #333;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -19,8 +19,4 @@ body
 #container h1
 {
     font-size: 20px;
-}
-
-#post{
-    background-color: rgb(9, 61, 61);
 }
